@@ -1,0 +1,9 @@
+.title-wrapper {
+  display: flex;
+  border: 1px solid black;
+}
+
+.title-text {
+  display: flex;
+  border: 1px solid red;
+}
