@@ -25,7 +25,7 @@
   width: 5px;
   border-radius: 50%;
   background-color: blue;
-  animation: fall 3s infinite;
+  animation: fall 5s infinite;
 }
 
 .new-dot {
@@ -50,6 +50,6 @@
     transform: translate(40px,300px);
   }  */
   100% {
-    transform: translate(20px,450px);
+    transform: translate(0px,475px);
   }
 }
