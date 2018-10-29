@@ -11,7 +11,7 @@
 #dot-container {
   border: 1px solid blue;
   position: flex;
-  height: 500px;
+  height: 600px;
   width: 100%;
   max-width: 100%;
   top: 0;
@@ -28,20 +28,20 @@
   animation: fall 5s infinite;
 }
 
-.new-dot {
-  /* height: 5px;
-  width: 5px; */
+/* .new-dot {
+   height: 5px;
+  width: 5px; 
   position: absolute;
   border-radius: 50%;
   background-color: black;
-  animation: fall 3s infinite;
-}
+   animation: fall 3s infinite; 
+} */
 
-@keyframes fall {
-  /* 0% {
+/* @keyframes fall {
+   0% {
     transform: translate(0px,0px);
-  } */
-  /* 25% {
+  } 
+   25% {
     transform: translate(20px, 100px)
   }
   50% {
@@ -49,8 +49,8 @@
   }
   75% {
     transform: translate(40px,300px);
-  }  */
+  }  
   100% {
     transform: translate(0px,475px);
   }
-}
+} */
